@@ -11,8 +11,6 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
-
-  font-family: sans-serif;
 }
 
 *, *::before, *::after {
@@ -27,8 +25,8 @@ body {
   background-color: #e97065;
 }
 
-.watermelon h2{
-  font-family: Rammetto One;
+.watermelon h2 {
+  font-family: "Rammetto One";
 }
 
 .starfruit {
@@ -36,7 +34,7 @@ body {
 }
 
 .starfruit h2 {
-  font-family: Gravitas One;
+  font-family: "Gravitas One";
 }
 
 .persimmon {
@@ -45,4 +43,8 @@ body {
 
 .persimmon h2 {
   font-family: Comfortaa;
+}
+
+p {
+  font-family: "Open Sans";
 }
